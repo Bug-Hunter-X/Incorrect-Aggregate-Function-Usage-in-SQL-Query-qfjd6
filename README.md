@@ -1,0 +1,1 @@
+This repository demonstrates a common error in SQL queries involving aggregate functions.  The original query attempts to compare individual salaries to the average salary, but places the AVG() function incorrectly within the WHERE clause.  The corrected version shows the proper way to calculate and use the average salary for filtering.
